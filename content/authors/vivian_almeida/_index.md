@@ -1,36 +1,19 @@
 ---
-role: Seu Nome 
+role: Vivian Almeida
 weight: 18
-email: "seuemail@email.com"
+email: "vialmeida.agro@gmail.com"
 interests:
--
--
--
+- Pesquisa
+- Bioestatística
+- Melhoramento Genético
 -
 organizations:
 - name: UFSC
   url: "https://ufsc.br/"
-
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:seuemail@email.com'
-  
-- icon: lattes
-  icon_pack: ai
-  link: seu lattes
-  
-- icon: researchgate
-  icon_pack: ai
-  link: seu researchgate # se você não tem exclua isso tudo
   
 - icon: github
   icon_pack: fab
-  link: seu github
-  
-- icon: linkedin-in
-  icon_pack: fab
-  link: seu linkedin # se você não tem exclua isso tudo
+  link: https://github.com/almeidavivian
   
 user_groups:
 - Estudantes de Graduação
